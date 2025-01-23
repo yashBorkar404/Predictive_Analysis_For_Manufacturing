@@ -140,4 +140,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - yashkb1004@gmail.com
 
-Project Link: https://github.com/yashBorkar404/manufacturing-predictive-analysis
+Project Link: https://github.com/yashBorkar404/Predictive_analysis_For_Manufacturing
